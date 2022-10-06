@@ -2,10 +2,10 @@
 Scripts for comparing hybrid classification results from Snapclust and NewHybrids
 
 ## Requirements
-perl
-R >= 4.0
-adegenet R package
-optparse R package
+* perl
+* R >= 4.0
+* adegenet R package
+* optparse R package
 
 ## Basic Procedure
 Below is the basic order of operations for running the scripts in this repository. Additional information and example files for some of the inputs will be added over time.
